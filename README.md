@@ -1,8 +1,8 @@
 # Berkeley-AI-Pacman
 
 ### Search in Pacman
-  
   https://goo.gl/XAVtp7
+  
   Plays Pacman using state space search (BFS, DFS, A*). 
 
 ### Multi-Agent Pacman
